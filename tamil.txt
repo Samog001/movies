@@ -1,0 +1,7 @@
+1.
+
+name : Amaran
+
+director : Rajkumar peryasamy
+
+released_year : 2024
