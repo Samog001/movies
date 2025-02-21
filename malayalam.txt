@@ -6,3 +6,12 @@ director : Haneef Adeni
 
 released_year : 2024
 
+
+2.
+
+name : Barroz
+
+director : Mohan lal
+
+released_year : 2024
+
